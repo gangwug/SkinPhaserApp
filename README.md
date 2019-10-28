@@ -20,7 +20,7 @@ runApp("SkinPhaser")
 ```
 There is an input example file ('example.csv') in this folder. For testing this example file, please follow the steps shown in the below picture. 
 
-![](./SkinPhaserDemo.png)
+![](SkinPhaserDemo.png)
 
 
 ## For more information
