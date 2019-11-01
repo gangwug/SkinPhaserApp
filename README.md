@@ -9,7 +9,7 @@ install.packages("shiny")
 # load 'shiny' package
 library(shiny)
 
-# the easy way to run this web application 
+# the easy way to run this app 
 runGitHub("SkinPhaser", "gangwug")
 
 # Or you can download all files from this page, and place these files into an directory named 'SkinPhaser'. 
@@ -24,3 +24,4 @@ There is an input example file ('example.csv') in this folder. For testing this 
 
 
 ## For more information
+Wu G., Ruben M.D., Francey L.J., Smith D.F., Sherrill J.D., Oblong J.E., Mills K.J., Hogenesch J.B., A single-sample circadian biomarker that performs across populations and platforms. bioRxiv. 2018, doi: https://doi.org/10.1101/820811.
