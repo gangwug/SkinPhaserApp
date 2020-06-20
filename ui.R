@@ -38,7 +38,7 @@ shinyUI(fluidPage(
     
     mainPanel(
       helpText(h4('Starting point: File format') ),
-      helpText(h5('The input file contains expression values of measured circadian marker genes and internal control genes from each test human epidermal sample. At least 6 test samples were required. The file format should be like below:')),
+      helpText(h5('The input file contains expression values of measured marker genes and internal control genes from each test human epidermal sample. At least 6 test samples were required. The file format should be like below:')),
       tableOutput('example'),
       helpText(h4('Step1: Upload') ),
       helpText(h5('Please take a look at the input file selected on the left:') ),
@@ -51,7 +51,7 @@ shinyUI(fluidPage(
       br(),
       helpText(h4('Step3: Download') ),
       helpText(h5('You could download the output results by clicking Download button on the left if you see the first six samples shown below.'),
-      helpText(h5('The predicted circadian phase is between 0 and 2pi, with 0 indicating ARNTL phase.') ),
+      helpText(h5('The predicted molecular clock phase is between 0 and 2pi, with 0 indicating ARNTL phase.') ),
       tableOutput('tabout'))
     )
   )
