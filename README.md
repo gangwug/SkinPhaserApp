@@ -27,4 +27,4 @@ There is an input example file ('example.csv') in this folder. For testing this 
 
 
 ## For more information
-Wu G., Ruben M.D., Francey L.J., Smith D.F., Sherrill J.D., Oblong J.E., Mills K.J., Hogenesch J.B., A single-sample circadian biomarker that performs across populations and platforms. bioRxiv. 2018, doi: https://doi.org/10.1101/820811.
+Wu G, Ruben MD, Francey LJ, Smith DF, Sherrill JD, Oblong JE, Mills KJ, Hogenesch JB, A population-based gene expression signature of molecular clock phase from a single epidermal sample. Genome Med. 2020. 12(1):73. doi: https://doi.org/10.1186/s13073-020-00768-9.
